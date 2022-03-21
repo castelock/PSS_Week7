@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_SOLID_Wrong", "SRP_SOLI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_SOLID_Right", "SRP_SOLID_Right\SRP_SOLID_Right.csproj", "{9B68171E-3069-4AFC-8A7C-268C154DBA74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_SOLID_Wrong", "OCP_SOLID_Wrong\OCP_SOLID_Wrong.csproj", "{48CB80D6-7ED4-49D2-A797-6EF0FA79FE70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9B68171E-3069-4AFC-8A7C-268C154DBA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B68171E-3069-4AFC-8A7C-268C154DBA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B68171E-3069-4AFC-8A7C-268C154DBA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CB80D6-7ED4-49D2-A797-6EF0FA79FE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CB80D6-7ED4-49D2-A797-6EF0FA79FE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CB80D6-7ED4-49D2-A797-6EF0FA79FE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CB80D6-7ED4-49D2-A797-6EF0FA79FE70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
