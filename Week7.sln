@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_SOLID_Wrong", "ISP_SOLI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_SOLID_Right", "ISP_SOLID_Right\ISP_SOLID_Right.csproj", "{91667A3D-4FB2-4BC0-9711-68C497C771D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_SOLID_Wrong", "DIP_SOLID_Wrong\DIP_SOLID_Wrong.csproj", "{356EA36A-8AF6-4379-A5B3-11C909DA638F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_SOLID_Right", "DIP_SOLID_Right\DIP_SOLID_Right.csproj", "{88B770B3-0AF6-43DD-A072-A044A6C0F21E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{91667A3D-4FB2-4BC0-9711-68C497C771D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91667A3D-4FB2-4BC0-9711-68C497C771D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91667A3D-4FB2-4BC0-9711-68C497C771D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356EA36A-8AF6-4379-A5B3-11C909DA638F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356EA36A-8AF6-4379-A5B3-11C909DA638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356EA36A-8AF6-4379-A5B3-11C909DA638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356EA36A-8AF6-4379-A5B3-11C909DA638F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B770B3-0AF6-43DD-A072-A044A6C0F21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B770B3-0AF6-43DD-A072-A044A6C0F21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B770B3-0AF6-43DD-A072-A044A6C0F21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B770B3-0AF6-43DD-A072-A044A6C0F21E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
