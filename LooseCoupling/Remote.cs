@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LooseCoupling
 {
-    internal class Remote
+    public class Remote
     {
         IRemote _remote;
         public Remote(IRemote remote)
