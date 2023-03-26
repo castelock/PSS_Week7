@@ -20,7 +20,7 @@ switch (option)
         // because this method does not 
         // belong to class Student or compiler 
         // does not know mymethod() at compile time
-        //g.mymethod();
+        // g.mymethod();
         break;
     case "2":
         // Dynamic objects
