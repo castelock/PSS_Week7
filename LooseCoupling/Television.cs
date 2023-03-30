@@ -8,12 +8,12 @@ namespace LooseCoupling
 {
     public class Television : IRemote
     {
-
+        private static Television _television;
         static Television()
         {
             _television = new Television();
         }
-        private static Television _television;
+       
         public static Television Instance
         {
             get
